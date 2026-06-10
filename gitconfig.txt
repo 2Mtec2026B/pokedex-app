@@ -7,3 +7,4 @@ cd pokedex
 
 npm run reset-project
 
+npm i @expo/vector-icons
